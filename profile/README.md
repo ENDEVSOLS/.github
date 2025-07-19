@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# ENDEVSOLS: Where AI vision becomes competitive reality.
+# Endevsols: Where AI vision becomes competitive reality.
 
 We don't just build technology—we architect market advantages for forward-thinking enterprises ready to lead their industries through intelligent automation.
 
