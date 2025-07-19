@@ -17,30 +17,30 @@ We don't just build technology—we architect market advantages for forward-thin
 
 ## THE ENDEVSOLS ADVANTAGE
 
-### Strategic AI Partnership
+### 1. Strategic AI Partnership
 Your success is our blueprint. We work as an extension of your leadership team, translating ambitious visions into market-defining AI solutions that create sustainable competitive advantages.
 
-### Enterprise-Grade AI-as-a-Service
+### 2. Enterprise-Grade AI-as-a-Service
 Purpose-built AI platforms that scale with your ambitions. From proof-of-concept to market leadership, our solutions evolve with your business needs while maintaining enterprise security and compliance standards.
 
-### Industry-Defining Solutions
+### 3. Industry-Defining Solutions
 We've architected transformative AI platforms across Financial Services, Healthcare Innovation, Real Estate Intelligence, and Business Productivity—each designed to redefine what's possible in their respective markets.
 
-### Global Scale, Strategic Focus
+### 4. Global Scale, Strategic Focus
 Headquartered in Pakistan with global delivery capabilities, we combine world-class technical expertise with strategic cost advantages, enabling ambitious projects that might otherwise exceed traditional budgets.
 
 ## INDUSTRIES WE TRANSFORM
 
-### Financial Services AI
+### 1. Financial Services AI
 Next-generation FinTech platforms that process millions of transactions while maintaining regulatory compliance and delivering personalized customer experiences at scale.
 
-### Healthcare Technology
+### 2. Healthcare Technology
 Intelligent healthcare solutions that accelerate diagnosis, optimize patient outcomes, and streamline operations while meeting stringent privacy and regulatory requirements.
 
-### Real Estate Intelligence
+### 3. Real Estate Intelligence
 Property technology platforms that leverage computer vision, predictive analytics, and market intelligence to transform how real estate decisions are made and executed.
 
-### Business Productivity Solutions
+### 4. Business Productivity Solutions
 Enterprise automation platforms that eliminate operational bottlenecks, enhance decision-making capabilities, and create new revenue opportunities through intelligent workflows.
 
 ## THE TECHNOLOGY FOUNDATION
