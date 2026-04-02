@@ -13,20 +13,19 @@
 
 # EnDevSols
 
-EnDevSols delivers custom AI and enterprise software solutions for organizations building modern digital products, automation systems, and scalable platforms.
+EnDevSols delivers custom AI and enterprise software solutions for organizations building modern digital products, automation systems, and scalable business platforms.
 
-We help businesses design, develop, and scale production-ready architectures with a strict focus on reliability, execution quality, and measurable long-term value.
+We work with startups, enterprises, and growing teams to design and deliver reliable, production-ready solutions aligned with real business needs.
 
-### ⚙️ Focus Areas
+## Focus Areas
 
-- Custom AI & LLM Architecture
-- Automation and Workflow Systems
-- Enterprise SaaS and Platform Development
-- System Modernization & Cloud Infrastructure
-- Internal Tools and Data Solutions
+- Custom AI solutions
+- Business automation systems
+- SaaS and platform development
+- Enterprise application development
+- Internal tools and data solutions
 
-### 🌐 Contact
+## Contact
 
-- **Website:** [endevsols.com](https://endevsols.com)
-- **Email:** info@endevsols.com
-
+- Website: https://endevsols.com
+- Email: technology@endevsols.com
