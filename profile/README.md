@@ -13,17 +13,25 @@
 
 # EnDevSols
 
-EnDevSols delivers custom AI and enterprise software solutions for organizations building modern digital products, automation systems, and scalable business platforms.
+EnDevSols delivers custom Generative AI and enterprise software solutions for organizations building modern digital products, autonomous systems, and scalable business platforms.
 
 We work with startups, enterprises, and growing teams to design and deliver reliable, production-ready solutions aligned with real business needs.
 
 ## Focus Areas
 
-- Custom AI solutions
+- Generative AI & Autonomous AI Agents
+- LLM Integration & RAG (Retrieval-Augmented Generation)
 - Business automation systems
 - SaaS and platform development
 - Enterprise application development
-- Internal tools and data solutions
+
+## Major Technologies & Tech Stack
+
+- **Generative AI & Agents:** LangChain, LangGraph, AI Agents, LLMs (OpenAI, Anthropic), RAG, Vector Databases
+- **Machine Learning & Core AI:** Python, PyTorch, Computer Vision, NLP
+- **Frontend & Full-Stack:** React, Next.js, TypeScript
+- **Backend & APIs:** FastAPI, Node.js, Python
+- **Cloud & Infrastructure:** AWS (EC2, Bedrock), Docker, PostgreSQL
 
 ## Contact
 
