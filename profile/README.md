@@ -50,8 +50,8 @@ We maintain open-source tools focused on production-grade AI, RAG, document inte
 
 | Project | Purpose |
 |---|---|
-| [LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer) | Production-ready RAG framework for multi-tenant AI chatbots, streaming, vector search, tools, and persistent memory. |
 | [LongSuite](https://github.com/ENDEVSOLS/Long-Suite) | Open-source ecosystem for document parsing, RAG assistants, hallucination detection, and retrieval regression testing. |
+| [LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer) | Production-ready RAG framework for multi-tenant AI chatbots, streaming, vector search, tools, and persistent memory. |
 | [LongParser](https://github.com/ENDEVSOLS/LongParser) | Document intelligence engine for converting PDFs, DOCX, PPTX, XLSX, and CSV files into AI-ready chunks for RAG pipelines. |
 | [LongTracer](https://github.com/ENDEVSOLS/LongTracer) | LLM hallucination detection and claim verification for RAG pipelines and AI assistants. |
 | [LongProbe](https://github.com/ENDEVSOLS/LongProbe) | RAG regression testing for detecting retrieval quality issues, lost chunks, and broken knowledge pipelines. |
